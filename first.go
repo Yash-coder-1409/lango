@@ -1,8 +1,9 @@
-package main 
+package main
 
 import "fmt"
 
-func main(){
-	tis:=23
-	fmt.Printf("The type of this is : %T\n ",tis)
+func main() {
+	tis := 23
+	fmt.Printf("ThE type of this is : %T\n ", tis)
+	fmt.Printf("dedo")
 }
